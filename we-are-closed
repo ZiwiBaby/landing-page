@@ -3,55 +3,60 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Ziwi Baby</title>
+  <title>Ziwi Baby - Thank You</title>
   <style>
     body {
-      margin: 0;
-      background-color: #f5f0e9; /* original beige */
+      background-color: #FAF5E9;
       font-family: Garamond, serif;
-      color: #000;
-      line-height: 1.5;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
+      color: #000000;
+      margin: 0;
       padding: 20px;
-      min-height: 100vh;
-      box-sizing: border-box;
       text-align: center;
     }
+
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
     img {
       max-width: 100%;
       height: auto;
       display: block;
-      margin-bottom: 30px;
-      border-radius: 8px;
-      max-width: 600px;
+      margin: 0 auto 40px auto;
     }
+
+    h1 {
+      font-size: 2rem; 
+      margin-bottom: 20px;
+      font-weight: normal;
+    }
+
     p {
-      max-width: 600px;
-      margin: 0 auto 1.2em auto;
+      font-size: 1.2rem;
+      line-height: 1.6;
+      white-space: pre-line; 
     }
   </style>
 </head>
 <body>
-  <img src="https://www.ziwibaby.co.nz/cdn/shop/files/IMG_0147.jpg?v=1700291060&amp;width=1800" alt="Ziwi Baby" />
-  <p>Thank you</p>
-  <p>
-    Those two words don't feel quite big enough but thank you so much for all the love, kindness and support you've shown us over the years - it's meant more than words can say.
-  </p>
-  <p>
-    Creating these little pieces for your little ones has been such a joy. It feels magical to know that our clothes have been a small part of the moments that matter - worn on birthdays, in family photos, as coming-home outfits, during playtime and naptime, first steps and first words, and everything in between. Thank you for being part of our story and for allowing us to be a part of yours.
-  </p>
-  <p>
-    We’ve loved hearing how much you've enjoyed our prints or our fabric and especially when your little ones reach for their Ziwi Baby clothes because they're the comfiest. Sometimes it’s about the bigger things; if our clothes have brought a bit of comfort and joy to your family, then this whole journey has been worth it.
-  </p>
-  <p>
-    Thank you for trusting us to dress your little ones, for telling your friends about us, for every kind review, comment or message, and just for being the most lovely, supportive community we could have ever hoped for.
-  </p>
-  <p>
-    We're still holding on to this little brand, so who knows - maybe one day, we'll find our way back to you.
-  </p>
-  <p>With love,</p>
-  <p>Ziwi Baby x</p>
+  <div class="container">
+    <img src="https://www.ziwibaby.co.nz/cdn/shop/files/IMG_0147.jpg?v=1700291060&amp;width=1800" alt="Ziwi Baby" />
+    <h1>We are closed.</h1>
+    <p>
+      Thank you. Those two words don't feel quite big enough but thank you so much for all the love, kindness and support you've shown us over the years - it's meant more than words can say.
+
+      Creating these little pieces for your little ones has been such a joy. It feels magical to know that our clothes have been a small part of the moments that matter - worn on birthdays, in family photos, as coming-home outfits, during playtime and naptime, first steps and first words, and everything in between. Thank you for being part of our story and for allowing us to be a part of yours.
+
+      We’ve loved hearing how much you've enjoyed our prints or our fabric and especially when your little ones reach for their Ziwi Baby clothes because they're the comfiest. Sometimes it’s about the bigger things; if our clothes have brought a bit of comfort and joy to your family, then this whole journey has been worth it.
+
+      Thank you for trusting us to dress your little ones, for telling your friends about us, for every kind review, comment or message, and just for being the most lovely, supportive community we could have ever hoped for.
+
+      We're still holding on to this little brand, so who knows - maybe one day, we'll find our way back to you.
+
+      With love,
+      Ziwi Baby x
+    </p>
+  </div>
 </body>
 </html>
